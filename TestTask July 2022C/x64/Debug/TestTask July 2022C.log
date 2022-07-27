@@ -1,8 +1,0 @@
-﻿  MyForm.cpp
-F:\Погромирование\TestTask July 2022C\MyForm.cpp(53,43): warning C4101: e: неиспользованная локальная переменная
-F:\Погромирование\TestTask July 2022C\MyForm.cpp(182,32): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
-F:\Погромирование\TestTask July 2022C\MyForm.cpp(182,26): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
-F:\Погромирование\TestTask July 2022C\MyForm.cpp(295,25): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
-F:\Погромирование\TestTask July 2022C\MyForm.cpp(295,22): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
-  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
-  TestTask July 2022C.vcxproj -> F:\Погромирование\TestTask July 2022C\x64\Debug\TestTask July 2022C.exe
