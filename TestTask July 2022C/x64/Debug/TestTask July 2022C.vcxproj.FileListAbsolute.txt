@@ -1,0 +1,20 @@
+F:\Погромирование\TestTask July 2022C\x64\Debug\TestTask July 2022C.vcxproj.AssemblyReference.cache
+F:\Погромирование\TestTask July 2022C\x64\Debug\TestTask July 2022C.vcxproj.SuggestedBindingRedirects.cache
+F:\Погромирование\TestTask July 2022C\x64\Debug\TestTaskJuly2022C.MyForm.resources
+F:\Погромирование\TestTask July 2022C\x64\Debug\TestTask July 2022C.vcxproj.GenerateResource.cache
+F:\Погромирование\TestTask July 2022C\x64\Debug\TestTask July 2022C.exe
+D:\TestTask July 2022C\x64\Debug\TestTask July 2022C.vcxproj.SuggestedBindingRedirects.cache
+D:\TestTask July 2022C\x64\Debug\TestTaskJuly2022C.MyForm.resources
+D:\TestTask July 2022C\x64\Debug\TestTask July 2022C.vcxproj.GenerateResource.cache
+D:\TestTask July 2022C\x64\Debug\TestTask July 2022C.exe
+D:\TestTask July 2022C\x64\Debug\TestTask July 2022C.vcxproj.AssemblyReference.cache
+C:\Users\msims\OneDrive\Рабочий стол\TestTask July 2022C\x64\Debug\TestTask July 2022C.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\msims\OneDrive\Рабочий стол\TestTask July 2022C\x64\Debug\TestTaskJuly2022C.MyForm.resources
+C:\Users\msims\OneDrive\Рабочий стол\TestTask July 2022C\x64\Debug\TestTask July 2022C.vcxproj.GenerateResource.cache
+C:\Users\msims\OneDrive\Рабочий стол\TestTask July 2022C\x64\Debug\TestTask July 2022C.exe
+C:\Users\msims\OneDrive\Рабочий стол\TestTask July 2022C\x64\Debug\TestTask July 2022C.vcxproj.AssemblyReference.cache
+L:\TestTask July 2022C\x64\Debug\TestTask July 2022C.vcxproj.AssemblyReference.cache
+L:\TestTask July 2022C\x64\Debug\TestTask July 2022C.vcxproj.SuggestedBindingRedirects.cache
+L:\TestTask July 2022C\x64\Debug\TestTaskJuly2022C.MyForm.resources
+L:\TestTask July 2022C\x64\Debug\TestTask July 2022C.vcxproj.GenerateResource.cache
+L:\TestTask July 2022C\x64\Debug\TestTask July 2022C.exe
